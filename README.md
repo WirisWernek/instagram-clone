@@ -20,5 +20,5 @@ Segue abaixo uma prévia da aplicação.
 
 Para rodar a aplicação voce deve:
 - Primeiro clonar este repositório
-- Navegar para a pasta `Projeto-Anna-Bella`
+- Navegar para a pasta `instagram-clone`
 - Pode utilizar a extensão Live Server do Visual Studio Code para abrir o projeto ou utilizar o seu navegador para abrir o arquivo `index.html` 
